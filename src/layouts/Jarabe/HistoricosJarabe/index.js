@@ -24,6 +24,7 @@ import { RestartAlt } from '@mui/icons-material';
 export const HistoricosJarabe = ({ turno /* , datosVelocidad = { turno1_Danger1: '00:00', turno1_Success1: '00:00', turno1_Warning1: '00:00', turno2_Danger2: '00:00', turno2_Success2: '00:00', turno2_Warning2: '00:00', turno2_outLine: '00:00', turno1_outLine: '00:00' } */ }) => {
 
   /**
+   * comentario prueba
    * Metodo uno de usar comentarios de colores 
    ** Important information is highlighted
    *! decrecated method, do not use 
